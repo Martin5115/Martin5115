@@ -15,8 +15,6 @@ I'm looking for my first remote junior role.
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,cs,dotnet,mysql,postgres,react,ts,git,github" alt="Skills" />
 </p>
 
-<img width="500" height="500" alt="229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a" src="https://github.com/user-attachments/assets/69f23bfe-5e99-47a5-85c8-ce9b14b9d8cc" />
-
 ---
 
 ## 🎯 About me
@@ -24,12 +22,12 @@ I'm looking for my first remote junior role.
 - 🔭 Looking for a **remote junior full stack / backend** role (also open to freelance)
 - 🎓 Studying Web Programming at **ITLA**
 - 💼 Stack: **Node.js, Express, C#, ASP.NET, JavaScript, HTML/CSS, MySQL, PostgreSQL, SQL Server**
-- 🚀 Deployment: **Railway, cPanel hosting, custom domains, GitHub Pages**
+- 🚀 Deployment: **Railway, cPanel hosting, custom domains, GitHub Pages**         <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/807f9ea5-79a6-4305-9a8e-42fac18bf710" />
 - 🌱 Learning: **React, TypeScript**
 - 🗣️ Spanish (native), English (intermediate)
 - 📫 **martings510@gmail.com**
 
-  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/807f9ea5-79a6-4305-9a8e-42fac18bf710" />
+ 
 
 
 ## 🚀 Featured project
