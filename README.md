@@ -63,3 +63,5 @@ Full stack app, live in production, to manage a barbershop's day-to-day work.
   <img src="https://github-readme-stats.vercel.app/api?username=Martin5115&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin5115&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3584b5fc-00b7-46bb-873b-83b736ffac33" />
