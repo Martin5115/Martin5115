@@ -8,7 +8,7 @@ I'm looking for my first remote junior role.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Martin5115&label=Profile%20views&color=e8552b&style=flat" alt="Profile views" />
+
 </p>
 
 <p align="center">
@@ -28,6 +28,9 @@ I'm looking for my first remote junior role.
 - 🌱 Learning: **React, TypeScript**
 - 🗣️ Spanish (native), English (intermediate)
 - 📫 **martings510@gmail.com**
+
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/807f9ea5-79a6-4305-9a8e-42fac18bf710" />
+
 
 ## 🚀 Featured project
 
