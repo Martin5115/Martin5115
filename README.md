@@ -22,13 +22,10 @@ I'm looking for my first remote junior role.
 - 🔭 Looking for a **remote junior full stack / backend** role (also open to freelance)
 - 🎓 Studying Web Programming at **ITLA**
 - 💼 Stack: **Node.js, Express, C#, ASP.NET, JavaScript, HTML/CSS, MySQL, PostgreSQL, SQL Server**
-- 🚀 Deployment: **Railway, cPanel hosting, custom domains, GitHub Pages**         <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/807f9ea5-79a6-4305-9a8e-42fac18bf710" />
+- 🚀 Deployment: **Railway, cPanel hosting, custom domains, GitHub Pages**     
 - 🌱 Learning: **React, TypeScript**
 - 🗣️ Spanish (native), English (intermediate)
 - 📫 **martings510@gmail.com**
-
- 
-
 
 ## 🚀 Featured project
 
