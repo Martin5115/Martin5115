@@ -24,18 +24,18 @@ I'm looking for my first remote junior role.
 - 💼 Comfortable with: **HTML, CSS, JavaScript, Java (Swing)**
 - 🌱 Learning: **React, TypeScript, Node.js, SQL**
 - 🌐 I can deploy and configure sites on cPanel hosting, custom domains and GitHub Pages
-- 🗣️ Spanish (native), English (TU_NIVEL)
+- 🗣️ Spanish (native), English (intermediate)
 - 📫 **martings510@gmail.com**
 
 ## 🚀 Projects
 
 ### 🌿 Farmanatural
 Website for a natural pharmacy, deployed with a custom domain on cPanel hosting.
-Built with React + TypeScript + Vite, using AI tooling (Lovable) as a starting point and customized by me.
+Built with React + TypeScript + Vite
 - 🔗 [Live site](https://farmanatural1.lovable.app)
 
 ### 🧑‍💻 Personal portfolio
-My portfolio site, started as a Web Programming class assignment.
+My portfolio site.
 - Tech: HTML, CSS, GitHub Pages
 - 🔗 [Live](https://martin5115.github.io/misitioweb/) · [Code](https://github.com/Martin5115/misitioweb)
 
