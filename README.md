@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Martin Gómez 👋</h1>
 
-<h3 align="center">Junior Web Developer from Santo Domingo, Dominican Republic 🇩🇴</h3>
+<h3 align="center">Junior Full Stack Developer from Santo Domingo, Dominican Republic 🇩🇴</h3>
 
 <p align="center">
-Web programming student at ITLA. I build websites and small management systems with HTML, CSS, JavaScript, React and Java.
+Web programming student at ITLA. I build complete web systems: Node.js/Express and C#/ASP.NET backends, SQL databases and vanilla JS frontends, deployed to production.
 I'm looking for my first remote junior role.
 </p>
 
@@ -12,43 +12,42 @@ I'm looking for my first remote junior role.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,java,git,github" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,cs,dotnet,mysql,postgres,react,ts,git,github" alt="Skills" />
 </p>
 
 ---
 
 ## 🎯 About me
 
-- 🔭 Looking for a **remote junior developer** role (also open to freelance)
+- 🔭 Looking for a **remote junior full stack / backend** role (also open to freelance)
 - 🎓 Studying Web Programming at **ITLA**
-- 💼 Comfortable with: **HTML, CSS, JavaScript, Java (Swing)**
-- 🌱 Learning: **React, TypeScript, Node.js, SQL**
-- 🌐 I can deploy and configure sites on cPanel hosting, custom domains and GitHub Pages
+- 💼 Stack: **Node.js, Express, C#, ASP.NET, JavaScript, HTML/CSS, MySQL, PostgreSQL, SQL Server**
+- 🚀 Deployment: **Railway, cPanel hosting, custom domains, GitHub Pages**
+- 🌱 Learning: **React, TypeScript**
 - 🗣️ Spanish (native), English (intermediate)
 - 📫 **martings510@gmail.com**
 
-## 🚀 Projects
+## 🚀 Featured project
 
-### 🌿 Farmanatural
-Website for a natural pharmacy, deployed with a custom domain on cPanel hosting.
-Built with React + TypeScript + Vite
-- 🔗 [Live site](https://farmanatural1.lovable.app)
+### ✂️ BarberPro — Barbershop management system
+Full stack app, live in production, to manage a barbershop's day-to-day work.
+- **Features:** token-based login, dashboard with live stats, appointments, clients, barbers and services (full CRUD), multi-tenant support for several barbershops
+- **Stack:** Node.js, Express, MySQL (mysql2), HTML5, CSS3, vanilla JavaScript
+- **Deployment:** Railway + custom domain, Git-based update flow
+- 🔗 [Live demo](https://barberprord.com/login.html) · [Code](https://github.com/Martin5115/sistema-barberia)
 
-### 🧑‍💻 Personal portfolio
-My portfolio site.
-- Tech: HTML, CSS, GitHub Pages
-- 🔗 [Live](https://martin5115.github.io/misitioweb/) · [Code](https://github.com/Martin5115/misitioweb)
+## 📁 Other projects
 
-### 💈 TU_SISTEMA_JAVA (barbershop / inventory / billing)
-TU_DESCRIPCION: what problem it solves and its main features.
-- Tech: Java, Swing, TU_BASE_DE_DATOS
-- 🔗 [Code](https://github.com/Martin5115/TU_REPO)
+- 🌿 **Farmanatural** — natural pharmacy website (React + TypeScript + Vite) on a custom domain, built with AI tooling and customized by me. [Live](https://farmanatural1.lovable.app)
+- 🧑‍💻 **Personal portfolio** — HTML/CSS on GitHub Pages. [Live](https://martin5115.github.io/misitioweb/)
 
 ## 🛠️ Tools
 
+**Backend** &nbsp; <img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet" />
+
 **Frontend** &nbsp; <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" />
 
-**Backend** &nbsp; <img src="https://skillicons.dev/icons?i=java" />
+**Databases** &nbsp; <img src="https://skillicons.dev/icons?i=mysql,postgres" /> + SQL Server
 
 **Tools** &nbsp; <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
