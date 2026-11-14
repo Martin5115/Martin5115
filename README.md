@@ -15,6 +15,8 @@ I'm looking for my first remote junior role.
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,cs,dotnet,mysql,postgres,react,ts,git,github" alt="Skills" />
 </p>
 
+<img width="500" height="500" alt="229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a" src="https://github.com/user-attachments/assets/69f23bfe-5e99-47a5-85c8-ce9b14b9d8cc" />
+
 ---
 
 ## 🎯 About me
@@ -64,4 +66,4 @@ Full stack app, live in production, to manage a barbershop's day-to-day work.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin5115&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3584b5fc-00b7-46bb-873b-83b736ffac33" />
+
