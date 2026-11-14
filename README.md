@@ -8,7 +8,7 @@ I'm looking for my first remote junior role.
 </p>
 
 <p align="center">
-
+  <img src="https://komarev.com/ghpvc/?username=Martin5115&label=Profile%20views&color=e8552b&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ I'm looking for my first remote junior role.
 - 🔭 Looking for a **remote junior full stack / backend** role (also open to freelance)
 - 🎓 Studying Web Programming at **ITLA**
 - 💼 Stack: **Node.js, Express, C#, ASP.NET, JavaScript, HTML/CSS, MySQL, PostgreSQL, SQL Server**
-- 🚀 Deployment: **Railway, cPanel hosting, custom domains, GitHub Pages**     
+- 🚀 Deployment: **Railway, cPanel hosting, custom domains, GitHub Pages**
 - 🌱 Learning: **React, TypeScript**
 - 🗣️ Spanish (native), English (intermediate)
 - 📫 **martings510@gmail.com**
@@ -39,7 +39,7 @@ Full stack app, live in production, to manage a barbershop's day-to-day work.
 ## 📁 Other projects
 
 - 🌿 **Farmanatural** — natural pharmacy website (React + TypeScript + Vite) on a custom domain, built with AI tooling and customized by me. [Live](https://farmanatural1.lovable.app)
-- 🧑‍💻 **Personal portfolio** — HTML/CSS on GitHub Pages. [Live](https://martin5115.github.io/misitioweb/)
+- 🧑‍💻 **Portfolio site** — pure HTML/CSS, no dependencies, on GitHub Pages. [Live](https://martin5115.github.io/miportafolio/)
 
 ## 🛠️ Tools
 
@@ -53,15 +53,6 @@ Full stack app, live in production, to manage a barbershop's day-to-day work.
 
 ## 📬 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-e8552b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://martin5115.github.io/misitioweb/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-e8552b?style=for-the-badge&logo=googlechrome&logoColor=white)](https://martin5115.github.io/miportafolio/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:martings510@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_LINKEDIN)
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Martin5115&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin5115&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinestebangomezsantana)
